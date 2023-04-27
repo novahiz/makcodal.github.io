@@ -286,6 +286,7 @@
 
 .grid-container .main .news-letter .user-input {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     width: 700px;
     justify-content: space-between;
