@@ -174,7 +174,7 @@
 }
 
 .main .services .services-content .services-list .service {
-    width: 250px;
+    width: 300px;
     margin: 20px;
     background-image: linear-gradient(100deg, rgb(55, 55, 105), rgba(161, 95, 71, 0.845));
     border-radius: 15px;
@@ -212,6 +212,7 @@
     font-size: 20px;
     font-weight: 800;
     padding: 10px;
+    text-align: center;
     text-transform: uppercase;
 }
 
