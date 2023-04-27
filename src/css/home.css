@@ -54,7 +54,7 @@
 
 
 .main section .titles h3 {
-    color: var(--brand-color);
+    color: rgb(255, 115, 0);
     font-size: 1em;
     font-weight:800;
     text-transform: uppercase;
@@ -79,9 +79,10 @@
     align-items: center;
     justify-content: space-evenly;
     background-color: rgb(138, 93, 51);
-    margin-top: 50px;
-    z-index: 1;
+    margin: 50px 20px 0 20px;
     padding: 50px 0;
+    border-radius: 25px;
+    z-index: 1;
 }
 
 .main .engagements li {
@@ -256,6 +257,7 @@
     align-items: center;
     height: 250px;
     width: 80%;
+    margin-top: 50px;
     border-radius: 5px;
     background-color: rgb(70, 75, 88);
     position: relative;
