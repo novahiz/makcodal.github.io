@@ -78,7 +78,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
-    background-color: rgb(138, 93, 51);
+    background-color: rgb(51, 94, 138);
     margin: 50px 20px 0 20px;
     padding: 50px 0;
     border-radius: 25px;
@@ -172,7 +172,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding-top: 50px;
+    margin-top: 50px;
+    padding: 25px 0;
+    background-color: rgba(0, 132, 255, 0.2);
 }
 
 .main .services .services-content .services-list .service {
@@ -180,6 +182,7 @@
     margin: 20px;
     background-image: linear-gradient(100deg, rgb(55, 55, 105), rgba(161, 95, 71, 0.845));
     border-radius: 15px;
+    box-shadow: 0 0 5px rgb(35, 35, 35);
 }
 
 .main .services .services-content .services-list .service:nth-child(2) {
