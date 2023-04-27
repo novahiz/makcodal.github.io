@@ -112,8 +112,13 @@
         z-index: -1;
     }
 
+    .grid-container .main .news-letter .user-input input {
+        width: 300px;
+    }
+
     .grid-container .main .news-letter .content .right img {
         display: block;
     }
+
     
 }
